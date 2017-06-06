@@ -23,3 +23,5 @@
 	default = simple
 [diff]
 	tool = kdiff3
+[core]
+	editor = vim
